@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Typescript & Flutter
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=runkids&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=runkids&show_icons=true)](https://github.com/runkids)
 
 
 <a href="https://github.com/runkids/vue2-timeago">
