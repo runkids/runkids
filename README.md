@@ -5,4 +5,3 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=runkids&show_icons=true&locale=en" alt="runkids" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=runkids&" alt="runkids" /></p>
