@@ -11,7 +11,7 @@
 
 ## Current Projects
 
-- 🔄 **[skillshare](https://github.com/runkids/skillshare)** - Sync skills to all AI CLI tools with one command and simplify team sharing.
+- 📚 **[skillshare](https://github.com/runkids/skillshare)** - Sync skills to all AI CLI tools with one command and simplify team sharing.
 - 🪝 **[ai-hooks-integration](https://github.com/runkids/ai-hooks-integration)** - Skill for integrating CLI hooks across Claude Code, Gemini CLI, Cursor, and OpenCode.
 - 📟 **[code-buddy](https://github.com/runkids/code-buddy)** - Real-time AI coding assistant status monitor for macOS (Claude Code, Gemini CLI, Cursor, OpenCode).
 - ✋ **[veto](https://github.com/runkids/veto)** - A hard stop between AI and your terminal. Risk-evaluated command gate with auth + audit for CLI and AI tools.
