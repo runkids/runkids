@@ -11,9 +11,10 @@
 
 ## Current Projects
 
-- 🪝 **[ai-hooks-integration](https://github.com/runkids/ai-hooks-integration)** - Skill for integrating CLI hooks across Claude Code, Gemini CLI, Cursor, and OpenCode.
-- ✋ **[veto](https://github.com/runkids/veto)** - A hard stop between AI and your terminal. Risk-evaluated command gate with auth + audit for CLI and AI tools.
 - 🔄 **[skillshare](https://github.com/runkids/skillshare)** - Sync skills to all AI CLI tools with one command and simplify team sharing.
+- 🪝 **[ai-hooks-integration](https://github.com/runkids/ai-hooks-integration)** - Skill for integrating CLI hooks across Claude Code, Gemini CLI, Cursor, and OpenCode.
+- 📟 **[code-buddy](https://github.com/runkids/code-buddy)** - Real-time AI coding assistant status monitor for macOS (Claude Code, Gemini CLI, Cursor, OpenCode).
+- ✋ **[veto](https://github.com/runkids/veto)** - A hard stop between AI and your terminal. Risk-evaluated command gate with auth + audit for CLI and AI tools.
 - 🐢 **[ssh-buddy](https://github.com/runkids/ssh-buddy)** - A lightweight, local-first SSH configuration manager with smart diagnostics.
 - 🚀 **[PackageFlow](https://github.com/runkids/PackageFlow)** - A visual DevOps hub for npm scripts, Git, workflows, and deploy — controllable by AI via MCP.
 - 🍺 **[homebrew-tap](https://github.com/runkids/homebrew-tap)** - Homebrew tap for shipping my CLI tools.
