@@ -12,11 +12,12 @@
 ## Current Projects
 
 - 📚 **[skillshare](https://github.com/runkids/skillshare)** - Sync skills to all AI CLI tools with one command and simplify team sharing.
-- 🗃️ **[skillshare-hub](https://github.com/runkids/skillshare-hub)** - Community-curated catalog of skillshare skills — search, discover, and share AI CLI skills
+- 🗃️ **[skillshare-hub](https://github.com/runkids/skillshare-hub)** - Community-curated catalog of skillshare skills — search, discover, and share AI CLI skills.
+- 📡 **[feature-radar](https://github.com/runkids/feature-radar)** - AI skill that helps your coding agent discover, track, and prioritize what to build next.
+- 🗃️ **[my-skills](https://github.com/runkids/my-skills)** - My skills for AI.
 - 🔑 **[veto](https://github.com/runkids/veto)** -  Human-in-the-loop confirmation for AI Agents. Let your AI deploy, delete, push — with your fingerprint.
 - 🪝 **[ai-hooks-integration](https://github.com/runkids/ai-hooks-integration)** - Skill for integrating CLI hooks across Claude Code, Gemini CLI, Cursor, and OpenCode.
 - 📟 **[code-buddy](https://github.com/runkids/code-buddy)** - Real-time AI coding assistant status monitor for macOS (Claude Code, Gemini CLI, Cursor, OpenCode).
 - 🐢 **[ssh-buddy](https://github.com/runkids/ssh-buddy)** - A lightweight, local-first SSH configuration manager with smart diagnostics.
 - 🚀 **[PackageFlow](https://github.com/runkids/PackageFlow)** - A visual DevOps hub for npm scripts, Git, workflows, and deploy — controllable by AI via MCP.
 - 🍺 **[homebrew-tap](https://github.com/runkids/homebrew-tap)** - Homebrew tap for shipping my CLI tools.
-- 🗃️ **[my-skills](https://github.com/runkids/my-skills)** - My skills for AI.
