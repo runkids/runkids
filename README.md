@@ -12,9 +12,9 @@
 ## Current Projects
 
 - 📚 **[skillshare](https://github.com/runkids/skillshare)** - Sync skills to all AI CLI tools with one command and simplify team sharing.
-- 🗃️ **[skillshare-hub](https://github.com/runkids/skillshare-hub)** - Community-curated catalog of skillshare skills — search, discover, and share AI CLI skills.
+- 🗃️ **[skillshare-hub](https://github.com/runkids/skillshare-hub)** - A curated catalog of skillshare skills and a reference for building your own. Create your organization's internal hub.
 - 📡 **[feature-radar](https://github.com/runkids/feature-radar)** - AI skill that helps your coding agent discover, track, and prioritize what to build next.
-- 🗃️ **[my-skills](https://github.com/runkids/my-skills)** - My skills for AI.
+- 🗃️ **[my-skills](https://github.com/runkids/my-skills)** - My AI agent skills — managed with skillshare.
 - 🔑 **[veto](https://github.com/runkids/veto)** -  Human-in-the-loop confirmation for AI Agents. Let your AI deploy, delete, push — with your fingerprint.
 - 🪝 **[ai-hooks-integration](https://github.com/runkids/ai-hooks-integration)** - Skill for integrating CLI hooks across Claude Code, Gemini CLI, Cursor, and OpenCode.
 - 📟 **[code-buddy](https://github.com/runkids/code-buddy)** - Real-time AI coding assistant status monitor for macOS (Claude Code, Gemini CLI, Cursor, OpenCode).
