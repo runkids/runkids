@@ -12,6 +12,7 @@
 ## Current Projects
 
 - 📚 **[skillshare](https://github.com/runkids/skillshare)** - Sync skills to all AI CLI tools with one command and simplify team sharing.
+- 🔃 **[setup-skillshare](https://github.com/runkids/setup-skillshare)** - GitHub Action to install and initialize skillshare CLI.
 - 🧪 **[mdproof](https://github.com/runkids/mdproof)** - Markdown runbooks that execute like real tests. Built for AI agents, still pleasant for humans.
 - 📟 **[skillshare-app](https://github.com/runkids/skillshare-app)** - A desktop app for Skillshare CLI.
 - 🗃️ **[skillshare-hub](https://github.com/runkids/skillshare-hub)** - A curated catalog of skillshare skills and a reference for building your own. Create your organization's internal hub.
