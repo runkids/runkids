@@ -11,7 +11,7 @@
 
 ## Current Projects
 
-- 🖼️ **[aisets](https://github.com/runkids/aisets)** - AI-powered asset intelligence for codebases: audit image debt, find duplicates, search by meaning, optimize safely, and stage assets visually with AI Canvas.
+- 🖼️ **[aisets](https://github.com/runkids/aisets)** - Local image library auditor — find duplicates, optimize sizes, search by meaning, and stage assets on an AI canvas.
 - 📚 **[skillshare](https://github.com/runkids/skillshare)** - Sync skills to all AI CLI tools with one command and simplify team sharing.
 - 🎨 **[figma-to-prompt](https://github.com/runkids/figma-to-prompt)** - Figma plugin — extract design frames into structured JSON & AI-ready prompts for code generation
 - 🔃 **[setup-skillshare](https://github.com/runkids/setup-skillshare)** - GitHub Action to install and initialize skillshare CLI.
