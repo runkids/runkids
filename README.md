@@ -11,7 +11,7 @@
 
 ## Current Projects
 
-- 🧭 **[agents-context-router](https://github.com/runkids/agents-context-router)** - Stop paying for a bloated AGENTS.md on every task — split agent instructions into a small kernel + task-routed wiki topics loaded on demand, self-maintaining with byte budgets and orphan checks in CI.
+- 🧭 **[agents-context-router](https://github.com/runkids/agents-context-router)** - Keep AGENTS.md lean. Route coding agents to task-specific docs with byte budgets and integrity checks.
 - 🖼️ **[aisets](https://github.com/runkids/aisets)** - Local image library auditor — find duplicates, optimize sizes, search by meaning, and stage assets on an AI canvas.
 - 📚 **[skillshare](https://github.com/runkids/skillshare)** - Sync skills to all AI CLI tools with one command and simplify team sharing.
 - 🎨 **[figma-to-prompt](https://github.com/runkids/figma-to-prompt)** - Figma plugin — extract design frames into structured JSON & AI-ready prompts for code generation
