@@ -11,6 +11,7 @@
 
 ## Current Projects
 
+- 🔍 **[figlens](https://github.com/runkids/figlens)** - Build UI from a .fig file, anywhere. Read Figma designs offline on laptops, CI and cloud AI servers — no Figma install or API key. CLI and MCP server.
 - 🧭 **[agents-context-router](https://github.com/runkids/agents-context-router)** - Keep AGENTS.md lean. Route coding agents to task-specific docs with byte budgets and integrity checks.
 - 🖼️ **[aisets](https://github.com/runkids/aisets)** - Local image library auditor — find duplicates, optimize sizes, search by meaning, and stage assets on an AI canvas.
 - 📚 **[skillshare](https://github.com/runkids/skillshare)** - Sync skills to all AI CLI tools with one command and simplify team sharing.
