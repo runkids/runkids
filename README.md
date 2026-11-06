@@ -1,14 +1,5 @@
 # Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/>, I'm Willie
 
-![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Web](https://img.shields.io/badge/Web-E34F26?style=flat-square&logo=html5&logoColor=white)
-
 ## Current Projects
 
 - 🔍 **[figlens](https://github.com/runkids/figlens)** - Give your coding agent a Figma design it can build from. Extract layout, text, variables, assets and reference images from local .fig files. CLI + MCP, with no Figma app, login or API rate limits.
